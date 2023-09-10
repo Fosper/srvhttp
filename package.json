@@ -1,0 +1,33 @@
+{
+  "name": "srvhttp",
+  "version": "1.0.0",
+  "description": "Simple and faster http(s) server. Supports TCP and UDP!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_ENV=test node --experimental-specifier-resolution=node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fosper/srvhttp.git"
+  },
+  "keywords": [
+    "srvhttp",
+    "webserver",
+    "server",
+    "http",
+    "https",
+    "httpserver",
+    "httpsserver"
+  ],
+  "author": {
+    "name": "Fosper",
+    "email": "fosper@icloud.com",
+    "url": "https://www.npmjs.com/~fosper"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fosper/srvhttp/issues"
+  },
+  "homepage": "https://github.com/fosper/srvhttp#readme"
+}
